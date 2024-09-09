@@ -5,4 +5,11 @@ komentar dapat berupa beberapa
 baris 
 */
 
-#include <iostream> //baris ini merupakan deklarasi penggunaan folder input yang berupa istream dan output yang berupa ostream. 
+#include <iostream> 
+using namespace std; 
+
+int main() {
+    cout << "Hello world!";
+    return 0;
+}
+
