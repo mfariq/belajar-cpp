@@ -11,5 +11,6 @@ using namespace std;
 int main() {
     cout << "Hello world!" << endl; //endl berfungsi sama seperti \n 
     return 0;
+    cin.get();
 }
 

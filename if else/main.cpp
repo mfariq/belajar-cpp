@@ -10,4 +10,5 @@ int main() {
     } else {
         cout << "anda masih dibawah umur";
     }
+    cin.get();
 }

@@ -24,4 +24,5 @@ int main() {
     } else {
         cout << "Predikat anda adalah E";
     }
+    cin.get();
 }
